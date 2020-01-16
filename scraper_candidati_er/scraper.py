@@ -1,4 +1,4 @@
-import scrapy, json
+import scrapy
 
 class ScraperCandidatiER(scrapy.Spider):
 	name = 'ScraperCandidatiER'
